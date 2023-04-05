@@ -1,5 +1,3 @@
-import ninja
-
 class Pet:
     def __init__(self, name, type, tricks):
         self.name = name

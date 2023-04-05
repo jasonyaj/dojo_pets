@@ -21,7 +21,7 @@ class Ninja:
         return self
 
 
-goldfish = Pet('Goldie', 'fish', 'call, dive, jump')
+goldfish = pets.Pet('Goldie', 'fish', 'call, dive, jump')
 jason = Ninja('Jason', 'Yang', goldfish, 'plankton,shrimp, worm', 'flake')
 
 
